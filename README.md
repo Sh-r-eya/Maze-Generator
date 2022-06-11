@@ -2,6 +2,10 @@
  
 The following project is capable of generating unique mazes of varying difficulties. The user can attempt to solve the mazes on the screen using arrow keys. The program is also capable of saving these mazes as csv files so that the mazes can be attempted later or by a different user. The user interface provides a game-like experience where different users can create separate accounts and attempt the same mazes. Users can view their time taken to solve the maze and their best time at a maze of that difficulty.
 
+sample maze 
+![image](https://user-images.githubusercontent.com/89849229/173179497-815d436c-e384-4169-a75d-a8cfd06eec66.png)
+
+
 ## Maze Algorithm
 
 In order to draw the maze, we have used several pygame features. The maze consists of a grid of coordinates - a 2D list in our program. After drawing the borders and openings of the maze, the remaining coordinates are filled using randomly generated snake lines.
