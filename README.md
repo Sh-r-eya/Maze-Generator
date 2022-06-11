@@ -1,4 +1,6 @@
 # Maze-Generator
+
+Run Maze-generator!.py 
  
 The following project is capable of generating unique mazes of varying difficulties. The user can attempt to solve the mazes on the screen using arrow keys. The program is also capable of saving these mazes as csv files so that the mazes can be attempted later or by a different user. The user interface provides a game-like experience where different users can create separate accounts and attempt the same mazes. Users can view their time taken to solve the maze and their best time at a maze of that difficulty.
 
