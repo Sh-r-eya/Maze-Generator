@@ -37,3 +37,6 @@ The user interface was created using a combination of tkinter and pygame. Users 
 
 # Solving the maze:
 The user can draw a path across the maze using arrow keys. To retrace their path, the user can use backspace. However, if the user attempts to draw a line over a wall, it will result in a loss. Then the user is given the choice to try again or give up. On successfully completing a maze, the user is shown the time they have taken to solve the maze as well as their best time on a maze of that difficulty. Then, the user is given the option to save that maze.
+
+# License
+CC0-1.0 license
